@@ -1,4 +1,4 @@
-module github.com/putchi/utils
+module github.com/putchi/go-lib-utils
 
 go 1.20
 
